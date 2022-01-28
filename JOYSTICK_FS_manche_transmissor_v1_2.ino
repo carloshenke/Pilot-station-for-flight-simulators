@@ -6,6 +6,7 @@
  * This software send data (serial) to another arduino (receiver = receptor, must be Micro or Leonardo) located in base of yoke (base do manche)
  * 
  *  
+ */
  
 #include "SoftwareSerial.h"
 //LADO DIREITO
