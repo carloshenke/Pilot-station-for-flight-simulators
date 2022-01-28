@@ -1,4 +1,12 @@
-
+/*  POR CARLOS HENKE DE OLIVEIRA (carloshenke@unb.br), 2022
+ *  SEE https://youtube.com/playlist?list=PLHaFO8kHQhLsbDEYpe5zKnKIaRhMqIjSN
+ * 
+ * Preferable arduino Pro mini due this reduced size and cost
+ * 
+ * This software send data (serial) to another arduino (receiver = receptor, must be Micro or Leonardo) located in base of yoke (base do manche)
+ * 
+ *  
+ 
 #include "SoftwareSerial.h"
 //LADO DIREITO
 
