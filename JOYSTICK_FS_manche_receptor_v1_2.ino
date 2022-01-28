@@ -1,4 +1,10 @@
-/*  POR CARLOS HENKE DE OLIVEIRA (carloshenke@unb.r), 2022
+/*  POR CARLOS HENKE DE OLIVEIRA (carloshenke@unb.br), 2022
+ *  SEE https://youtube.com/playlist?list=PLHaFO8kHQhLsbDEYpe5zKnKIaRhMqIjSN
+ * 
+ * Use arduino Micro or Leonardo. The library "Joystick.h" do not run in Uno, Mino Pro or Mega.
+ * 
+ * This software receive data (serial) from another arduino (transmissor or transmiter) located in yoke (manche)
+ * 
  *  
  *  A BIBLIOTECA Joystick.h tem os seguintes domínios para os eixos:
  *  EIXO X (XAxis): -127 a 127
